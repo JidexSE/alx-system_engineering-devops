@@ -1,1 +1,1 @@
-File type
+Hidden files
