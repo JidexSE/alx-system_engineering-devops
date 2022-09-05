@@ -1,1 +1,1 @@
-My name is Betty
+script displays third line of the file iacta
