@@ -1,1 +1,1 @@
-command echo display the contents of /etc/passwd and /etc/hosts file
+command displays the last 10 lines of/etc/passwd
