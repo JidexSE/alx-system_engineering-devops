@@ -1,1 +1,1 @@
-command displays the last 10 lines of/etc/passwd
+command displays the first 10 lines of/etc/passwd
