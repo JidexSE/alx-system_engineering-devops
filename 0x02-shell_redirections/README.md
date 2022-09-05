@@ -1,1 +1,1 @@
-displays numbers lines containing the pattern Bin from the line /etc/passwd
+Display lines containing the pattern “root” and 3 lines after them in the file
