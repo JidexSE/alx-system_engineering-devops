@@ -1,1 +1,1 @@
-file executable for user
+command echo display the contents of /etc/passwd file
