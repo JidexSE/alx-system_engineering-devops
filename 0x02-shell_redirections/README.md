@@ -1,1 +1,1 @@
-script dublicates the last ine of file iacta
+Script deletes regular files (not directories) with .js
