@@ -1,1 +1,1 @@
-scrit prints list of words words that appears exactly once
+displays lines containing the pattern ROOT from the line /etc/passwd
