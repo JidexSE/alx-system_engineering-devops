@@ -1,1 +1,1 @@
-script writes into the file ls_cwd_content
+script dublicates the last ine of file iacta
