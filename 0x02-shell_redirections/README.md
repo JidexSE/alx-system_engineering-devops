@@ -1,1 +1,1 @@
-script that create a file named \\\ containing the text Best School
+script writes into the file ls_cwd_content
