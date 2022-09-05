@@ -1,1 +1,1 @@
-create Script that displays 10 newswest file in the directory
+scrit prints list of words words that appears exactly once
