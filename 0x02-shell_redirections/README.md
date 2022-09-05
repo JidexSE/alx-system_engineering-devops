@@ -1,1 +1,1 @@
-Script counts the number of directories and sub directories in the current directory
+create Script that displays 10 newswest file in the directory
