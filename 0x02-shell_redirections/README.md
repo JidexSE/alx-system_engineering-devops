@@ -1,1 +1,1 @@
-Script deletes regular files (not directories) with .js
+Script counts the number of directories and sub directories in the current directory
